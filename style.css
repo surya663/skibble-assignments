@@ -1,0 +1,19 @@
+section{
+    width: 100%;
+    display: flex;
+    flex-direction:row;
+    justify-content:space-around;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+div{
+    background-color: lightskyblue;
+    width: 200px;
+    height: 200px;
+    margin: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    
+}
